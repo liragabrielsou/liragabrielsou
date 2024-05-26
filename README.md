@@ -1,7 +1,7 @@
 
 # Gabriel Lira
 
-Prazer me chamo Gabriel, é eu estou contribuindo com o projeto , no intuito de aprimorar meu conhecimento , é se possivel lhe ajudar a extrair ideias para complementar sua apresentação.
+Prazer me chamo Gabriel Lira Sousa tenho 24 anos e estou ingressando na programação ,minha paixão pessoal.
 
 ## 🚀 Objetivos
 
